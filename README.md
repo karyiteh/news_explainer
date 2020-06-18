@@ -35,5 +35,6 @@ worshipping world was an uphill climb.
 Style & Beauty
 
 ![Probability list of words for uncertain categorized headline](https://github.com/karyiteh/news_explainer/blob/master/images/uncertain_prob.png)
+![Probability list of words for uncertain categorized headline](https://github.com/karyiteh/news_explainer/blob/master/images/uncertain_prob2.png)
 ![Probability plot of words for uncertain categorized headline](https://github.com/karyiteh/news_explainer/blob/master/images/uncertain_plot.png)
 ![Text highlight of words that explain categories for uncertain categorized headline](https://github.com/karyiteh/news_explainer/blob/master/images/uncertain_highlight.png)
